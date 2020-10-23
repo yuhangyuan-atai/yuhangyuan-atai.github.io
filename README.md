@@ -1,1 +1,5 @@
-# yuhangyuan-atai.github.io
+# 宇航员阿泰的网站
+```python
+print("大家好，我是阿泰")
+```
+# 本站初创2020-10-23
